@@ -1,0 +1,75 @@
+Package: python-cython
+Version: 1.2.3
+Architecture: all
+Section: utils
+Priority: important
+Depends: python, python-pip
+Maintainer: Alex Krefting
+Description: python cython module
+Filename: dists/termux/extras/binary-all/cython.deb
+Size: 1944968
+MD5Sum: e234656dea63eb66c53bed3a6974fc71
+SHA1: 10d83a65efd232dbe9c16fecfc65ca608142de86
+SHA256: 134d54fcac6d36708809b9ef65b1c67b10cf7efee6682cc6c4b70660441d29ce
+SHA512: 5e3fa904becb8de290596d95344b242addb4097f6b5612051feaf9921c6d53c228f750e4f22b615e7c58884d35355a6afd50761c8db5fdea2e9282e0cf575679
+
+Package: python-discord
+Version: 1.2.3
+Architecture: all
+Section: utils
+Priority: important
+Depends: python, python-pip
+Maintainer: Alex Krefting
+Description: python cython module
+Filename: dists/termux/extras/binary-all/discord.deb
+Size: 2371056
+MD5Sum: 333953bace67e3cb14b4bea8c12779d7
+SHA1: 39f9236700acbb0e28a6937e50d1334672b955f6
+SHA256: e9a656a209944af5093b15a69f7953d644f438687effc4155fc00a26f0e2a8b6
+SHA512: b887b9e2c2e6a8949b40b8f2bddaec7edcc72767e9881ba897ad1c596e96331768cab7f14ce8ab3a2c335151194d762107426b2bc850958512a03a04ce866d64
+
+Package: python-maturin
+Version: 1.0
+Section: utils
+Architecture: all
+Priority: important
+Depends: python, python-pip
+Maintainer: Alex Krefting
+Description: Compiled Maturin for Termux
+Filename: dists/termux/extras/binary-all/maturin.deb
+Size: 3175924
+MD5Sum: ad2697c436b0c471d6c7d2ae7cdd89cc
+SHA1: dc5b05a3fa4a8c27a2f7b631dc32ffc2fc629660
+SHA256: a7e42517cfe68a521dd7377581827883c0f7a8e48e43d58522eef20e22934c4d
+SHA512: 263222e6c4edf08f5aeee3331c6cd4b521f2b938a2a3245a636c13f06dd56b5aabd500a39b2941459c472aff89c2857f5089e2a1c87d7aa1d2e03c8dbd7b6798
+
+Package: python-openai
+Version: 1.0
+Section: utils
+Architecture: all
+Priority: important
+Depends: python, python-pip
+Maintainer: Alex Krefting
+Description: Compiled Maturin for Termux
+Filename: dists/termux/extras/binary-all/openai.deb
+Size: 3121940
+MD5Sum: ab6ecf0c564155a8b36012a7b2bdad17
+SHA1: 07dfa621e3fe193e0ad6ba3aeaac62ab9ac7f8f4
+SHA256: b3b8e5fd0c732f16b67c053e3c72c09023d079ea2a90af59ffc402f03fcf790f
+SHA512: 025e0628c01eb6837294b478a945454f3ca600db6ca073d812b77b60aba7cfc5fe12783b806dfbfd237e3748e0f53d926d71325010d2f7cbd4763060eb06730e
+
+Package: python-twine
+Version: 1.0
+Section: utils
+Priority: important
+Architecture: all
+Depends: python, python-pip, python-maturin
+Maintainer: Alex Krefting
+Description: Compiled Maturin for Termux
+Filename: dists/termux/extras/binary-all/twine.deb
+Size: 6483644
+MD5Sum: 0dabc77e6b2d7ecaf1ce85d34edf078e
+SHA1: 245bdd0aae2ea9b04adde3d3be15a36f1f082dca
+SHA256: b2f8a61a8fcdf9d67d8eccefd7aebb97321ec504a5a9cda51e8d3bc58a4bd2bb
+SHA512: ad0ee78014c153fd7e0bb1dcc2ba47a19f7cdbdd4f97e6007f9c2fa6b89b24b440b6f6e9d0a9834241b9fdad1b681e330d341b86503690c0e648539250959836
+
