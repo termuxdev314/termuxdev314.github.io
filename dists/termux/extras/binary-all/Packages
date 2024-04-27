@@ -1,3 +1,18 @@
+Package: python-buildozer
+Version: 1.0
+Architecture: all
+Section: utils
+Priority: important
+Depends: python, python-pip, python-maturin
+Maintainer: @termuxdev314 <termuxdev314@gmail.com>
+Description: Buildozer for Termux
+Filename: dists/termux/extras/binary-all/buildozer.deb
+Size: 4301148
+MD5Sum: 21defd19b61c8d4c400e47654dc01dbb
+SHA1: f99e6007021c7183948100b5843a2190d645e970
+SHA256: 29f8118f82bb73f0fda74e999cf9908bfe4d44929e926f3802662a5330c895b8
+SHA512: 5e32afd5612ba637234b2628deeeba45e4ce2e5e0d9cb3809d73ce88b15cbdb9cca669acb7ea410f463f71f31c857d0966a98f5479deb1a5a3ebbf5891f5ebb0
+
 Package: python-cython
 Version: 1.2.3
 Architecture: all
